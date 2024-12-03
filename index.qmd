@@ -1,0 +1,6 @@
+---
+title: "A Dark Knight"
+from: markdown+emoji
+---
+
+This is the story of a Knight (A Dark Knight) .

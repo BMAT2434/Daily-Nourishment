@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Story of a Knight"
+  sidebar:
+    style: docked
+    background: secondary
+  page-footer: 
+    left: "Copyright 2024, Subhojit Maji" 
+    right: 
+      - icon: github
+        href: https://github.com/SubhojitMaji
+      - icon: instagram
+        href: https://www.instagram.com/7kiyotakaayanokoji/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/subhojit-maji-7bbb29268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  favicon: LOGO.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+
+

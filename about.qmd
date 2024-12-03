@@ -1,0 +1,35 @@
+---
+title: "About"
+---
+
+:::{.callout collapse="true"}
+## 1st Sem Results
+
+I messed up Semester1 due to the following reasons -
+
+- Was very lazy enough to go to classes.
+    - Missed a lot of Linear Algebra and FCP Classes.
+- Was over-confident in the Probability Examination
+    - Bunked the classes
+    - Didn't clear the basic stuffs
+    - Confused with Notations
+- Was involved in too much College Activities
+    - Over-Participated in Elections
+    - Played too much(Even during Exams!!)
+    - Wasted time in chasing someone
+- Some other factors
+    - Was chasing someone
+    - My finger got a deep cut , because of which I feel ill for several weeks
+    - It was my first time away from home , and hence enjoyed my life at the fullest
+:::
+:::{.callout collapse="true"}
+## Clearing Up SEM1
+
+Here's how I plan to clear up the mess that I did -
+
+- Fix a daily schedule for discipline
+- Limit my physical and outdoor activities
+- Try to cope up with the subjects on a daily basis
+- Miss No Classes
+- Ask each and every doubt to the teachers(NOTHING TO BE ASHAMED !!)
+:::
